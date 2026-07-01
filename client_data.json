@@ -1,0 +1,29 @@
+{
+  "name": "Bossburger",
+  "type": "Fast Food",
+  "tagline": "",
+  "description": "",
+  "services": [
+    "Burgers",
+    "Fries",
+    "Drinks",
+    "Takeaway"
+  ],
+  "primary_color": "#2563eb",
+  "secondary_color": "#1e40af",
+  "accent_color": "#f59e0b",
+  "phone": "05936979161",
+  "email": "",
+  "address": "Välikatu 19, Nokia",
+  "city": "Nokia",
+  "founded_year": "",
+  "owner_name": "",
+  "logo_text": "",
+  "extra_notes": "Fast food burger restaurant in Nokia, Finland.",
+  "client_notes": "",
+  "style_preset": "",
+  "site_features": [],
+  "site_language": "Finnish",
+  "inspiration_urls": [],
+  "generated_at": "2026-07-01T07:17:32.633372Z"
+}
